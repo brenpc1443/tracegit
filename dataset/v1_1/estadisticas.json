@@ -1,0 +1,159 @@
+{
+  "version": "v1.1",
+  "base": "v1 (brenpc/tracegit-commits@8b5d79317fca720262bdb5334ed25e12442ef040)",
+  "max_identicos_por_repo": 2,
+  "min_ejemplos_repo": 5,
+  "semilla": 42,
+  "descartes": {
+    "plantilla_web_github": 153,
+    "mensaje_repetido_en_repo": 60,
+    "repo_con_pocos_tras_depurar": 8
+  },
+  "descartes_por_split": {
+    "train": {
+      "plantilla_web_github": 145,
+      "mensaje_repetido_en_repo": 26,
+      "repo_con_pocos_tras_depurar": 6
+    },
+    "validation": {
+      "mensaje_repetido_en_repo": 33
+    },
+    "test": {
+      "plantilla_web_github": 8,
+      "mensaje_repetido_en_repo": 1,
+      "repo_con_pocos_tras_depurar": 2
+    }
+  },
+  "ejemplos_v1": {
+    "train": 3080,
+    "validation": 459,
+    "test": 386
+  },
+  "por_split": {
+    "train": {
+      "ejemplos": 2903,
+      "repos": 82,
+      "duenos": 80,
+      "idioma": {
+        "es": 1875,
+        "en": 1028
+      },
+      "lenguaje": {
+        "Python": 870,
+        "Java": 724,
+        "JavaScript": 641,
+        "TypeScript": 503,
+        "desconocido": 165
+      },
+      "licencia": {
+        "MIT": 1741,
+        "Apache-2.0": 688,
+        "BSD-3-Clause": 370,
+        "BSD-2-Clause": 104
+      },
+      "estilo_repo": {
+        "commits_grandes": 1490,
+        "commits_pequenos": 1413
+      }
+    },
+    "validation": {
+      "ejemplos": 426,
+      "repos": 14,
+      "duenos": 12,
+      "idioma": {
+        "es": 226,
+        "en": 200
+      },
+      "lenguaje": {
+        "Java": 120,
+        "Python": 119,
+        "JavaScript": 95,
+        "TypeScript": 78,
+        "desconocido": 14
+      },
+      "licencia": {
+        "MIT": 263,
+        "Apache-2.0": 89,
+        "BSD-3-Clause": 60,
+        "BSD-2-Clause": 14
+      },
+      "estilo_repo": {
+        "commits_pequenos": 294,
+        "commits_grandes": 132
+      }
+    },
+    "test": {
+      "ejemplos": 375,
+      "repos": 12,
+      "duenos": 12,
+      "idioma": {
+        "es": 276,
+        "en": 99
+      },
+      "lenguaje": {
+        "Java": 102,
+        "Python": 99,
+        "TypeScript": 80,
+        "JavaScript": 78,
+        "desconocido": 16
+      },
+      "licencia": {
+        "MIT": 275,
+        "BSD-3-Clause": 60,
+        "BSD-2-Clause": 24,
+        "Apache-2.0": 16
+      },
+      "estilo_repo": {
+        "commits_grandes": 242,
+        "commits_pequenos": 133
+      }
+    }
+  },
+  "repos_eliminados": [
+    "CarlosUSO/Proyecto",
+    "alejandrorueda/spaceapp",
+    "lAleRojasl/qrnet"
+  ],
+  "mensajes_mas_descartados": [
+    [
+      "Add files via upload",
+      152
+    ],
+    [
+      "still working on travis ci",
+      29
+    ],
+    [
+      "01/06/2021 - Permisos en BaseActivity",
+      5
+    ],
+    [
+      "[FIX] openacademy: Finding unitest errors",
+      4
+    ],
+    [
+      "30/05/2021 - Actualización funcionalidad restricciones",
+      3
+    ],
+    [
+      "se actualiza jenkinsfile",
+      3
+    ],
+    [
+      "Crear perfiles ViewSet",
+      2
+    ],
+    [
+      "Delete org.eclipse.wst.common.component",
+      1
+    ],
+    [
+      "logout en template",
+      1
+    ],
+    [
+      "version para pruebas",
+      1
+    ]
+  ]
+}
