@@ -11,8 +11,7 @@ venv/
 .ipynb_checkpoints/
 
 # Datos y modelos pesados (van a Hugging Face Hub, no a git)
-data/raw/
-data/processed/
+data/
 *.jsonl
 *.parquet
 *.gguf

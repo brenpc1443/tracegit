@@ -1,0 +1,259 @@
+repo,licencia,lenguaje,origen,estado,commits_antes_corte,candidatos,aceptados,es,en,mediana_lineas_repo,motivos,segundos
+PythonistaMX/api-testing-demo,MIT,Python,es:proyecto,pocos_ejemplos,21,0,,,,8,"{""mensaje_generico"": 1, ""mensaje_corto"": 20}",4.4
+JoseCordobaEAN/Proyecto2Programacion20191,MIT,Python,es:proyecto,fuera_de_rango_commits,7,,,,,,{},2.6
+iorch/jakaton_feminicidios,MIT,Python,es:proyecto,fuera_de_rango_commits,9,,,,,,{},7.0
+jaisenbe58r/iaapi,MIT,Python,es:proyecto,aceptado,101,5,5,0,5,2,"{""mensaje_generico"": 12, ""mensaje_corto"": 77, ""mensaje_copiado_del_diff"": 6, ""mensaje_parece_codigo"": 1}",14.4
+LuisPadillaM/proyecto_introduccion_a_la_programacion,MIT,Python,es:proyecto,fuera_de_rango_commits,10,,,,,,{},1.8
+CarlosLugones/lugodev-example-bot,MIT,Python,es:proyecto,aceptado,29,12,12,0,12,11,"{""mensaje_generico"": 1, ""mensaje_corto"": 16}",6.9
+rodrigotesone1997/Analisis_Datos_Transfermarkt,MIT,Python,es:proyecto,aceptado,23,18,18,15,3,40,"{""mensaje_generico"": 2, ""mensaje_corto"": 3}",6.4
+mjuribe/Diseno-Geometrico,MIT,Python,es:proyecto,aceptado,61,47,47,46,1,41,"{""mensaje_generico"": 5, ""mensaje_corto"": 8, ""sin_diff_util"": 1}",14.4
+Mariajosedibo19/Proyecto-Final-Algorimos-y-Programacion,MIT,Python,es:proyecto,pocos_ejemplos,38,2,,,,2.0,"{""mensaje_corto"": 3, ""mensaje_generico"": 33}",6.0
+mvasquezb/ConsultaSunat,MIT,Python,es:proyecto,aceptado,69,43,43,22,21,59,"{""mensaje_generico"": 6, ""diff_demasiado_grande"": 6, ""mensaje_corto"": 13, ""sin_diff_util"": 1}",16.1
+datosgobar/series-tiempo-ar-bcra-scraping,MIT,Python,es:proyecto,aceptado,230,208,60,52,8,28.0,"{""mensaje_generico"": 4, ""diff_demasiado_grande"": 7, ""mensaje_corto"": 6, ""mensaje_merge_o_revert"": 1, ""sin_diff_util"": 4}",54.2
+AyudaEnPython/Proyectos,MIT,Python,es:proyecto,aceptado,78,16,16,0,16,9.5,"{""mensaje_generico"": 23, ""mensaje_corto"": 39}",15.3
+FunPythonEC/uPy_IDE,MIT,Python,es:proyecto,aceptado,37,13,13,13,0,12,"{""sin_diff_util"": 2, ""mensaje_corto"": 9, ""diff_demasiado_grande"": 2, ""mensaje_generico"": 11}",13.5
+kranelox/calamardo,MIT,Python,es:proyecto,aceptado,43,32,32,26,6,10,"{""mensaje_generico"": 1, ""mensaje_corto"": 10}",10.2
+carlos-paezf/Django_Rest_Framework,MIT,Python,es:proyecto,aceptado,58,45,45,36,9,48.0,"{""mensaje_corto"": 13}",15.5
+lmontero88/Backend_FinalProject4Geek,MIT,Python,es:proyecto,fuera_de_rango_commits,18,,,,,,{},2.0
+araceli24/TimeWorking,MIT,Python,es:proyecto,aceptado,23,12,12,0,12,38,"{""mensaje_generico"": 1, ""mensaje_corto"": 8, ""sin_diff_util"": 2}",9.0
+PyBAQ/atenea,MIT,Python,es:proyecto,fuera_de_rango_commits,5,,,,,,{},2.0
+jserrape/proyectoCloudComputing,MIT,Python,es:proyecto,aceptado,99,70,60,58,2,8,"{""mensaje_generico"": 4, ""mensaje_corto"": 19, ""diff_demasiado_grande"": 2, ""sin_diff_util"": 4}",24.5
+DavidIbanez2/Proyecto-Final,MIT,Python,es:proyecto,fuera_de_rango_commits,3,,,,,,{},1.9
+gabvilpi/film-scrap,MIT,Python,es:proyecto,aceptado,29,22,22,22,0,30,"{""mensaje_generico"": 1, ""mensaje_corto"": 4, ""diff_demasiado_grande"": 1, ""sin_diff_util"": 1}",8.4
+dmguezjaviersnet/IA-Sim-Comp-Project,MIT,Python,es:proyecto,aceptado,388,251,60,44,16,35.0,"{""mensaje_generico"": 4, ""mensaje_corto"": 123, ""idioma_no_es_en"": 5, ""sin_diff_util"": 1, ""diff_demasiado_grande"": 4}",88.2
+FR98/chat-xmpp,MIT,Python,es:proyecto,aceptado,23,10,10,1,9,71,"{""mensaje_generico"": 1, ""mensaje_corto"": 12}",6.4
+DRMD431LU/ProyectoEstructuras,MIT,Python,es:proyecto,fuera_de_rango_commits,8,,,,,,{},2.0
+maasencioh/SmartFisher,MIT,Python,es:proyecto,fuera_de_rango_commits,7,,,,,,{},4.5
+Alopezm5/PROYECTO-PARTE-1,MIT,Python,es:proyecto,fuera_de_rango_commits,5,,,,,,{},3.4
+DCC-FCFM-UCHILE/django_sso,MIT,Python,es:proyecto,aceptado,57,29,29,19,10,6,"{""mensaje_generico"": 2, ""mensaje_corto"": 23, ""sin_diff_util"": 1, ""diff_demasiado_grande"": 2}",14.7
+lvercellih/lvcommons,MIT,Python,es:proyecto,fuera_de_rango_commits,18,,,,,,{},1.6
+zoolest/ProyectoFSEm,MIT,Python,es:proyecto,fuera_de_rango_commits,7,,,,,,{},7.0
+stormKx18/cic_algoritmos_proyecto1_Christian_Jaime,MIT,Python,es:proyecto,pocos_ejemplos,47,2,,,,12,"{""mensaje_generico"": 36, ""mensaje_corto"": 6, ""diff_demasiado_grande"": 1, ""sin_diff_util"": 2}",8.3
+estefania17e/Ordinario,MIT,Python,es:proyecto,fuera_de_rango_commits,7,,,,,,{},2.7
+AriDevK/redis-management-system,MIT,Python,es:proyecto,fuera_de_rango_commits,3,,,,,,{},2.5
+mitbanip/constructstar,MIT,Python,es:proyecto,fuera_de_rango_commits,5,,,,,,{},2.9
+horooo65/Proyecto-FSE,MIT,Python,es:proyecto,fuera_de_rango_commits,5,,,,,,{},4.2
+micardona96/The-Animal-Show,MIT,Python,es:proyecto,aceptado,73,42,42,28,14,17,"{""mensaje_generico"": 26, ""mensaje_corto"": 3, ""sin_diff_util"": 2}",15.7
+stormKx18/cic_algoritmos_proyecto2_Christian_Jaime,MIT,Python,es:proyecto,pocos_ejemplos,20,1,,,,36.5,"{""mensaje_generico"": 12, ""diff_demasiado_grande"": 1, ""sin_diff_util"": 5, ""mensaje_corto"": 1}",8.3
+codestrange/cerebro,MIT,Python,es:proyecto,aceptado,38,34,34,31,3,9.5,"{""mensaje_generico"": 1, ""sin_diff_util"": 1, ""mensaje_corto"": 1, ""bot"": 1}",9.8
+afanadorjuan/Fourier-Analysis,MIT,Python,es:proyecto,fuera_de_rango_commits,4,,,,,,{},2.4
+UVG-Teams/tutos-system,MIT,Python,es:proyecto,aceptado,215,71,60,21,39,21,"{""mensaje_generico"": 5, ""mensaje_corto"": 86, ""diff_demasiado_grande"": 2, ""idioma_no_es_en"": 1, ""bot"": 49, ""mensaje_vacio"": 1}",42.1
+plukis/experto_lisp,MIT,Python,es:proyecto,fuera_de_rango_commits,2,,,,,,{},1.7
+imdiegoruiz/smarttools8,MIT,Python,es:proyecto,aceptado,36,27,27,7,20,44.0,"{""mensaje_generico"": 2, ""mensaje_corto"": 5, ""mensaje_merge_o_revert"": 2}",10.6
+menavarrete/simulation,MIT,Python,es:proyecto,aceptado,36,10,10,5,5,4159.5,"{""mensaje_generico"": 1, ""mensaje_corto"": 16, ""diff_demasiado_grande"": 9}",41.8
+pony012/PruebaServicioCucea,MIT,Python,es:proyecto,aceptado,45,38,38,32,6,12,"{""mensaje_generico"": 1, ""mensaje_corto"": 6}",10.3
+ZzAZz4/recon_app,MIT,Python,es:proyecto,aceptado,32,8,8,0,8,37.0,"{""mensaje_generico"": 1, ""mensaje_corto"": 20, ""sin_diff_util"": 3}",8.0
+SergioRosello/verificacion,MIT,Python,es:proyecto,aceptado,91,71,60,0,60,8,"{""mensaje_generico"": 5, ""mensaje_corto"": 14, ""diff_demasiado_grande"": 1}",16.5
+alexdzul/fcp,MIT,Python,es:proyecto,aceptado,41,32,32,29,3,11,"{""mensaje_generico"": 3, ""mensaje_corto"": 6}",8.6
+jbuenof45401/projectFirstNote,MIT,Python,es:proyecto,fuera_de_rango_commits,18,,,,,,{},1.5
+Gusta2307/AeroSBD,MIT,Python,es:proyecto,aceptado,150,121,60,0,60,2.0,"{""mensaje_generico"": 1, ""mensaje_corto"": 24, ""diff_demasiado_grande"": 1, ""sin_diff_util"": 3}",27.9
+mbenitezm/ViLe,MIT,Python,es:proyecto,aceptado,99,36,36,1,35,31,"{""mensaje_generico"": 8, ""mensaje_corto"": 34, ""sin_diff_util"": 1, ""diff_demasiado_grande"": 18, ""mensaje_vacio"": 2}",20.4
+clhernandez/raspberrypi,MIT,Python,es:proyecto,fuera_de_rango_commits,5,,,,,,{},1.3
+AlexVonEinzbern/Proyecto-FADA,MIT,Python,es:proyecto,aceptado,35,20,20,20,0,40,"{""mensaje_generico"": 2, ""mensaje_corto"": 6, ""diff_demasiado_grande"": 4, ""sin_diff_util"": 3}",8.3
+Germanvp/ELDA,MIT,Python,es:proyecto,aceptado,56,43,43,16,27,165.5,"{""mensaje_generico"": 5, ""mensaje_corto"": 7, ""diff_demasiado_grande"": 1}",12.0
+Sebas36762/Space-Invaders-,MIT,Python,es:proyecto,fuera_de_rango_commits,2,,,,,,{},3.4
+fmontalvoo/TestAgua_S.E,MIT,Python,es:proyecto,fuera_de_rango_commits,11,,,,,,{},1.5
+FR98/turistic-gt,MIT,Python,es:proyecto,aceptado,37,6,6,6,0,47,"{""mensaje_generico"": 21, ""mensaje_corto"": 10}",5.4
+Dissorder/CentroMultimedia,MIT,Python,es:proyecto,fuera_de_rango_commits,4,,,,,,{},1.8
+sansuaza/Backend-AmbieNet,MIT,Python,es:proyecto,aceptado,125,109,60,38,22,15,"{""diff_demasiado_grande"": 2, ""mensaje_corto"": 11, ""mensaje_generico"": 2, ""mensaje_merge_o_revert"": 1}",29.6
+lAleRojasl/qrnet,MIT,Python,es:proyecto,aceptado,43,11,11,0,11,39,"{""mensaje_corto"": 22, ""mensaje_generico"": 6, ""diff_demasiado_grande"": 1, ""sin_diff_util"": 3}",10.2
+sofisanabria/Proyecto-mini-jueguitos,MIT,Python,es:proyecto,pocos_ejemplos,21,4,,,,45,"{""mensaje_generico"": 4, ""mensaje_corto"": 13}",10.7
+lmichan/NAR-database,MIT,Python,es:proyecto,aceptado,28,6,6,6,0,48.5,"{""mensaje_generico"": 14, ""diff_demasiado_grande"": 7, ""mensaje_corto"": 1}",9.0
+harrycabana/server,MIT,Python,es:proyecto,fuera_de_rango_commits,2,,,,,,{},3.5
+RedGranatum/Carmesi,MIT,Python,es:proyecto,fuera_de_rango_commits,4,,,,,,{},4.1
+museoXela/bicefalo,MIT,Python,es:proyecto,fuera_de_rango_commits,4,,,,,,{},1.7
+FR98/diamond-models,MIT,Python,es:proyecto,aceptado,41,9,9,7,2,21,"{""mensaje_generico"": 2, ""mensaje_corto"": 29, ""sin_diff_util"": 1}",10.4
+JRubin09/EscapemetProyect,MIT,Python,es:proyecto,fuera_de_rango_commits,6,,,,,,{},1.6
+Darlight/Compiladores_proyecto2,MIT,Python,es:proyecto,fuera_de_rango_commits,13,,,,,,{},2.1
+JRobayo99/Proyecto-RestauranteEAN,MIT,Python,es:proyecto,aceptado,66,9,9,7,2,25.0,"{""mensaje_generico"": 5, ""mensaje_corto"": 52}",12.1
+visidevi/django_rest_framework,MIT,Python,es:proyecto,fuera_de_rango_commits,3,,,,,,{},2.2
+developerpe/django-automatic-crud,Apache-2.0,Python,es:proyecto,aceptado,45,35,35,32,3,69,"{""sin_diff_util"": 1, ""mensaje_corto"": 7, ""diff_demasiado_grande"": 1, ""bot"": 1}",9.8
+ra-alex/uai_pr1,BSD-2-Clause,Python,es:proyecto,fuera_de_rango_commits,3,,,,,,{},2.4
+scast/thedevlabsweb,BSD-3-Clause,Python,es:proyecto,aceptado,30,25,25,2,23,26.5,"{""mensaje_generico"": 1, ""diff_demasiado_grande"": 1, ""mensaje_corto"": 2, ""sin_diff_util"": 1}",7.2
+sergiodxa/react-course-project,MIT,JavaScript,es:proyecto,aceptado,29,24,24,24,0,35,"{""mensaje_generico"": 4, ""idioma_no_es_en"": 1}",7.1
+ElenaPalomar/kawaii-profile-cards,MIT,,es:proyecto,aceptado,110,84,60,1,59,44.0,"{""mensaje_generico"": 5, ""mensaje_corto"": 19, ""sin_diff_util"": 2}",22.3
+ProfVillegas/TI322019,Apache-2.0,JavaScript,es:proyecto,fuera_de_rango_commits,15,,,,,,{},2.1
+seront/baseMDAng1,BSD-2-Clause,JavaScript,es:proyecto,aceptado,150,101,60,57,3,35.0,"{""mensaje_generico"": 4, ""mensaje_corto"": 23, ""diff_demasiado_grande"": 21, ""idioma_no_es_en"": 1}",29.9
+arquitecturas-concurrentes/iasc-expressstub-nodejs,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,5,,,,,,{},1.3
+manuelabarca/webpay-angular,MIT,TypeScript,es:proyecto,fuera_de_rango_commits,8,,,,,,{},1.8
+ong-bitcoin-argentina/DIDI-SSI-Mouro,Apache-2.0,TypeScript,es:proyecto,aceptado,78,52,52,1,51,30.5,"{""mensaje_generico"": 2, ""mensaje_corto"": 19, ""diff_demasiado_grande"": 2, ""mensaje_vacio"": 1, ""bot"": 2}",15.4
+HappyGick/Alg3Proyecto,BSD-2-Clause,TypeScript,es:proyecto,aceptado,35,24,24,4,20,53,"{""mensaje_generico"": 2, ""mensaje_corto"": 9}",7.5
+dmontoyav/backstepbystep-1,MIT,Java,es:proyecto,fuera_de_rango_commits,5,,,,,,{},2.2
+jokoframework/joko-utils,Apache-2.0,Java,es:proyecto,aceptado,32,24,24,21,3,29.5,"{""mensaje_corto"": 2, ""diff_demasiado_grande"": 4, ""bot"": 2}",8.7
+jmhorcas/Jakarta-EE,Apache-2.0,,es:proyecto,aceptado,51,30,30,3,27,13,"{""mensaje_generico"": 10, ""diff_demasiado_grande"": 5, ""mensaje_corto"": 5, ""idioma_no_es_en"": 1}",10.5
+Foobanizer2020/Proyecto-1,BSD-2-Clause,Java,es:proyecto,fuera_de_rango_commits,19,,,,,,{},1.7
+TransbankDevelopers/transbank-sdk-java-webpay-rest-example,BSD-3-Clause,Java,es:proyecto,aceptado,52,42,42,3,39,81.0,"{""mensaje_generico"": 1, ""diff_demasiado_grande"": 5, ""mensaje_corto"": 3, ""bot"": 1}",12.9
+dani3lsf/reinforcement-filesystem,BSD-2-Clause,,es:sistema de,aceptado,46,14,14,1,13,211.5,"{""mensaje_generico"": 1, ""idioma_no_es_en"": 14, ""mensaje_corto"": 12, ""diff_demasiado_grande"": 5}",14.9
+DenisMedeirosSDK/Nebulosa-Backend,BSD-3-Clause,TypeScript,es:sistema de,aceptado,137,130,60,0,60,32,"{""mensaje_generico"": 1, ""mensaje_corto"": 4, ""sin_diff_util"": 2}",26.4
+pyclass-jjj/todo,Apache-2.0,Python,es:proyecto,aceptado,22,13,13,12,1,2.0,"{""mensaje_generico"": 2, ""mensaje_corto"": 6, ""idioma_no_es_en"": 1}",4.9
+NielsHernandez/CarroAutonomo,BSD-2-Clause,Python,es:proyecto,fuera_de_rango_commits,4,,,,,,{},2.8
+EricVanDerDijs/admissions-frontend,BSD-3-Clause,Python,es:proyecto,fuera_de_rango_commits,16,,,,,,{},8.1
+polytipe/polytipe-projects,MIT,JavaScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},6.2
+daniielleha/ProyectoDeDaniel,MIT,,es:proyecto,fuera_de_rango_commits,4,,,,,,{},2.3
+jersonmartinez/GNet,Apache-2.0,JavaScript,es:proyecto,aceptado,350,243,60,14,46,33.0,"{""mensaje_generico"": 17, ""mensaje_corto"": 79, ""diff_demasiado_grande"": 6, ""sin_diff_util"": 5}",72.7
+MatheusChiodi/TccParqueVivoV1,BSD-2-Clause,JavaScript,es:curso,fuera_de_rango_commits,5,,,,,,{},3.7
+fatimavi/tiendavirt,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,4,,,,,,{},3.8
+ngChile/escalando-aplicaciones-con-angular,MIT,TypeScript,es:proyecto,aceptado,372,294,60,3,57,14.0,"{""mensaje_generico"": 3, ""mensaje_corto"": 65, ""sin_diff_util"": 4, ""bot"": 6}",70.2
+sebastianQuintero69155/nativescript,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,14,,,,,,{},2.2
+ankalagon17/node-mongo-typescript-template,BSD-2-Clause,TypeScript,es:proyecto,fuera_de_rango_commits,4,,,,,,{},1.4
+fiuba/algo3_proyecto_base_tp2,MIT,Java,es:proyecto,aceptado,22,17,17,3,14,8.0,"{""mensaje_generico"": 4, ""mensaje_corto"": 1}",5.2
+edwise/complete-spring-project,Apache-2.0,Java,es:proyecto,aceptado,171,143,60,14,46,30,"{""mensaje_generico"": 1, ""mensaje_corto"": 18, ""diff_demasiado_grande"": 9}",35.3
+patriciosilva83/bot-whatsapp-7,Apache-2.0,,es:sistema de,aceptado,103,16,16,1,15,12,"{""mensaje_generico"": 26, ""mensaje_corto"": 49, ""idioma_no_es_en"": 3, ""diff_demasiado_grande"": 2, ""mensaje_vacio"": 7}",18.1
+IsaaxGM/probandoSpring4_3,BSD-2-Clause,Java,es:proyecto,fuera_de_rango_commits,3,,,,,,{},3.2
+TransbankDevelopers/transbank-pos-bluetooth-android-example,BSD-3-Clause,Java,es:proyecto,aceptado,32,23,23,1,22,18.0,"{""mensaje_generico"": 1, ""mensaje_corto"": 8}",9.2
+j6sbits/restaurantetic-gui,BSD-3-Clause,TypeScript,es:aplicacion,aceptado,80,72,60,6,54,93.5,"{""mensaje_generico"": 3, ""diff_demasiado_grande"": 2, ""mensaje_corto"": 3}",19.2
+alanbato/ducky-calculator,Apache-2.0,Python,es:proyecto,fuera_de_rango_commits,19,,,,,,{},1.4
+everdaniel/Ama,BSD-2-Clause,Python,es:proyecto,aceptado,52,25,25,24,1,10.0,"{""mensaje_corto"": 23, ""mensaje_copiado_del_diff"": 3, ""diff_demasiado_grande"": 1}",9.1
+RolandoLeonM/ProyectoADAGrupoC,BSD-3-Clause,Python,es:proyecto,fuera_de_rango_commits,7,,,,,,{},2.1
+Jossdz/Gatsby-platzi,MIT,JavaScript,es:proyecto,fuera_de_rango_commits,5,,,,,,{},2.1
+z4yross/sia-api,MIT,,es:universidad,fuera_de_rango_commits,15,,,,,,{},1.4
+CarlosUSO/Proyecto,Apache-2.0,JavaScript,es:proyecto,aceptado,20,7,7,2,5,45.0,"{""mensaje_generico"": 1, ""mensaje_corto"": 11, ""diff_demasiado_grande"": 1}",6.1
+kingkernel/campanha2020,BSD-2-Clause,JavaScript,es:sistema de,fuera_de_rango_commits,19,,,,,,{},4.9
+alfonso1010/cidae,BSD-3-Clause,JavaScript,es:proyecto,error: clone: error: invalid path 'backend/web/xml/00:39:51_titulos.zip' fatal: unable to checkout working tree warning: Clone succeed,,,,,,,{},5.7
+Klerith/do-product-card,MIT,TypeScript,es:proyecto,fuera_de_rango_commits,3,,,,,,{},1.7
+yelmorp1/alquilerDepartamento,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},1.6
+programacion-avanzada/jrpg-2017b-dominio,MIT,Java,es:proyecto,aceptado,240,199,60,58,2,82.5,"{""mensaje_generico"": 8, ""sin_diff_util"": 9, ""mensaje_merge_o_revert"": 3, ""diff_demasiado_grande"": 12, ""mensaje_corto"": 9}",53.5
+Davidc2525/OrchiLiveStreamingClustered,Apache-2.0,Java,es:proyecto,fuera_de_rango_commits,10,,,,,,{},2.0
+NokiaXD/battlemon-bot,Apache-2.0,,es:aplicacion,fuera_de_rango_commits,10,,,,,,{},1.7
+darldil/Algoritmos-Clasificacion,BSD-2-Clause,Java,es:universidad,fuera_de_rango_commits,3,,,,,,{},1.4
+Frapr13/CLINICA,BSD-3-Clause,Java,es:proyecto,fuera_de_rango_commits,7,,,,,,{},4.2
+kapes232/jsandbox,BSD-3-Clause,TypeScript,es:aplicacion,fuera_de_rango_commits,12,,,,,,{},2.1
+ysantiago/openacademy-project,Apache-2.0,Python,es:proyecto,aceptado,58,53,53,0,53,22.5,"{""mensaje_generico"": 2, ""mensaje_corto"": 2, ""sin_diff_util"": 1}",14.8
+Desarrollo-Util/user-management-yt,MIT,JavaScript,es:proyecto,fuera_de_rango_commits,10,,,,,,{},1.8
+pepsoler/uem-dapp-example,MIT,,es:universidad,fuera_de_rango_commits,4,,,,,,{},1.9
+ProyectoMigala/formulario-Registro-2-backend,Apache-2.0,JavaScript,es:proyecto,aceptado,54,11,11,5,6,25.0,"{""mensaje_corto"": 18, ""mensaje_generico"": 3, ""diff_demasiado_grande"": 1, ""bot"": 21}",12.6
+HalbardHobby/Geo-sports,BSD-2-Clause,JavaScript,es:aplicacion,aceptado,25,19,19,19,0,28,"{""mensaje_generico"": 1, ""mensaje_corto"": 4, ""diff_demasiado_grande"": 1}",8.7
+germangarcia24/itext,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,19,,,,,,{},2.5
+mugan86/backend-meang-online-shop,MIT,TypeScript,es:proyecto,aceptado,144,110,60,56,4,24.0,"{""mensaje_generico"": 2, ""mensaje_corto"": 32}",34.6
+DeivydPuerto/proyectoWeb,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,4,,,,,,{},2.0
+programacion-avanzada/jrpg-2017a-dominio,MIT,Java,es:proyecto,aceptado,131,105,60,58,2,115,"{""mensaje_generico"": 5, ""sin_diff_util"": 3, ""mensaje_merge_o_revert"": 2, ""diff_demasiado_grande"": 11, ""mensaje_corto"": 5}",39.4
+manuel-freire/iw-1718,Apache-2.0,Java,es:proyecto,fuera_de_rango_commits,19,,,,,,{},2.1
+njmube/opencfdi-android,Apache-2.0,,es:aplicacion,fuera_de_rango_commits,4,,,,,,{},5.2
+jmcruz-uma/CourseDesigner,BSD-2-Clause,Java,es:curso,fuera_de_rango_commits,1,,,,,,{},8.3
+vladi-m1r/ProyectoADAGrupoC,BSD-3-Clause,Java,es:proyecto,aceptado,34,23,23,19,4,30.5,"{""mensaje_generico"": 5, ""mensaje_corto"": 5, ""sin_diff_util"": 1}",9.1
+EfeDeveloper/QuizQuestions,BSD-3-Clause,TypeScript,es:aplicacion,fuera_de_rango_commits,8,,,,,,{},2.1
+ROD1991/credent,MIT,JavaScript,es:proyecto,fuera_de_rango_commits,4,,,,,,{},2.1
+WichoDRivera/Graficas_2020_02,MIT,,es:curso,fuera_de_rango_commits,3,,,,,,{},2.8
+Ciclo4-MisionTic/SkillProject-front,Apache-2.0,JavaScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},2.0
+cemoralesarmijo/weather-node-web-api,BSD-2-Clause,JavaScript,es:aplicacion,fuera_de_rango_commits,5,,,,,,{},1.5
+Santiago07/vet,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,8,,,,,,{},3.8
+nirougi/sistebase,MIT,TypeScript,es:proyecto,aceptado,33,30,30,24,6,10,"{""mensaje_generico"": 2, ""sin_diff_util"": 1}",10.2
+yerkocabello/ripleyChallengeClient,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,9,,,,,,{},2.1
+jlportus/SpringBasics,MIT,Java,es:proyecto,aceptado,61,42,42,33,9,70,"{""mensaje_corto"": 11, ""mensaje_generico"": 6, ""diff_demasiado_grande"": 2}",14.9
+soluciones3f/nac-testing-3-autoasistido,Apache-2.0,Java,es:proyecto,aceptado,23,11,11,10,1,10,"{""mensaje_generico"": 6, ""mensaje_corto"": 6}",5.6
+ChecheSwap/SEP_Sistema-Gestor-2-Java,BSD-2-Clause,Java,es:sistema de,pocos_ejemplos,38,0,,,,2.0,"{""mensaje_generico"": 1, ""diff_demasiado_grande"": 2, ""mensaje_corto"": 34, ""sin_diff_util"": 1}",7.2
+emizoripx/flutterandroidprinter,BSD-3-Clause,Java,es:proyecto,fuera_de_rango_commits,8,,,,,,{},2.3
+2DAW-2Mares/viajeEstudios,MIT,JavaScript,es:proyecto,aceptado,28,26,26,26,0,52.5,"{""mensaje_generico"": 1, ""mensaje_corto"": 1}",9.4
+edsr-dev/curso-angular-loiane,MIT,,es:curso,fuera_de_rango_commits,6,,,,,,{},1.8
+luisitoys12/proyecto,Apache-2.0,JavaScript,es:proyecto,fuera_de_rango_commits,1,,,,,,{},2.7
+dmerniestic1987/poke-vue-eth,BSD-2-Clause,JavaScript,es:aplicacion,fuera_de_rango_commits,2,,,,,,{},2.0
+Lockex/autolocker,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,6,,,,,,{},2.6
+hifrontendcafe/sanity,MIT,TypeScript,es:proyecto,aceptado,119,101,60,1,59,14,"{""mensaje_generico"": 2, ""mensaje_corto"": 14, ""sin_diff_util"": 1, ""mensaje_parece_codigo"": 1}",30.5
+BSanchidrian/DomoticaArduino,Apache-2.0,TypeScript,es:proyecto,pocos_ejemplos,46,3,,,,32.0,"{""mensaje_generico"": 1, ""mensaje_corto"": 42}",10.3
+PabloEzequiel/Android,MIT,Java,es:proyecto,aceptado,65,37,37,30,7,21,"{""mensaje_corto"": 10, ""sin_diff_util"": 8, ""mensaje_generico"": 8, ""diff_demasiado_grande"": 2}",26.4
+AndresJMM/Proyecto,Apache-2.0,Java,es:proyecto,aceptado,57,15,15,14,1,13,"{""mensaje_generico"": 17, ""sin_diff_util"": 3, ""diff_demasiado_grande"": 4, ""mensaje_corto"": 18}",18.5
+MarcelloMonteiro/SistemaDeVendas,BSD-2-Clause,Java,es:sistema de,fuera_de_rango_commits,1,,,,,,{},1.8
+OmidErnesto/ProyectoADAGrupoC,BSD-3-Clause,Java,es:proyecto,aceptado,23,14,14,14,0,29,"{""mensaje_generico"": 8, ""mensaje_corto"": 1}",7.1
+Angelmmiguel/curso-react-app-base,MIT,JavaScript,es:proyecto,aceptado,22,13,13,0,13,7.0,"{""mensaje_generico"": 1, ""mensaje_corto"": 8}",6.3
+heilyr/tareas_jc,MIT,,es:tarea,pocos_ejemplos,21,3,,,,7,"{""mensaje_generico"": 3, ""mensaje_corto"": 12, ""diff_demasiado_grande"": 1, ""sin_diff_util"": 2}",13.4
+topx777/TintoreriaMVC,Apache-2.0,JavaScript,es:proyecto,aceptado,185,89,60,55,5,60,"{""mensaje_generico"": 4, ""diff_demasiado_grande"": 4, ""mensaje_corto"": 88}",38.1
+Maxxelmangas12/KKCHATBOT2,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,1,,,,,,{},2.1
+FernandoCalmet/fullstack-crud-with-aspnet-core-and-angular,MIT,TypeScript,es:proyecto,fuera_de_rango_commits,14,,,,,,{},1.9
+nelsonqs/IonicInmovVirtual,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},3.9
+JCSIVO/Projects-Java,MIT,Java,es:proyecto,fuera_de_rango_commits,4,,,,,,{},1.7
+cadox8/PA,Apache-2.0,Java,es:proyecto,aceptado,362,292,60,46,14,20.0,"{""mensaje_generico"": 3, ""diff_demasiado_grande"": 4, ""mensaje_corto"": 60, ""sin_diff_util"": 2, ""idioma_no_es_en"": 1}",82.3
+brahanVeld/repo-escritorio,BSD-2-Clause,Java,es:aplicacion,fuera_de_rango_commits,5,,,,,,{},3.7
+fabrik12/project-ADAGrupoC,BSD-3-Clause,Java,es:proyecto,aceptado,21,18,18,18,0,31,"{""mensaje_generico"": 1, ""sin_diff_util"": 1, ""mensaje_corto"": 1}",7.0
+learnthisacademy/nodejs-template,MIT,JavaScript,es:proyecto,fuera_de_rango_commits,17,,,,,,{},1.7
+inesromeroreboto/AOS1,MIT,,es:practica,aceptado,64,29,29,22,7,34.5,"{""mensaje_generico"": 3, ""mensaje_corto"": 31, ""diff_demasiado_grande"": 1}",17.4
+LuisFuentes98/Il-Consigliere-Backend,Apache-2.0,JavaScript,es:proyecto,aceptado,94,68,60,54,6,28.5,"{""mensaje_generico"": 1, ""diff_demasiado_grande"": 2, ""sin_diff_util"": 1, ""mensaje_corto"": 22}",26.0
+alvarezgg/litelement-lab,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,1,,,,,,{},1.9
+graphql-course/online-academy-2021,MIT,TypeScript,es:proyecto,fuera_de_rango_commits,3,,,,,,{},1.5
+lvalerab/clasesvirtuales,Apache-2.0,TypeScript,es:proyecto,aceptado,24,18,18,17,1,106.0,"{""mensaje_corto"": 2, ""bot"": 4}",10.3
+DavidCast27/serenityBDD-Rest-Screenplay,MIT,Java,es:proyecto,fuera_de_rango_commits,3,,,,,,{},1.7
+FernandoMorantes/ProyectoLenguajes,Apache-2.0,Java,es:proyecto,fuera_de_rango_commits,12,,,,,,{},3.5
+martinarroyo/16Puzzle,BSD-2-Clause,Java,es:aplicacion,fuera_de_rango_commits,5,,,,,,{},3.3
+dasilvaca/JANUS,BSD-3-Clause,Java,es:proyecto,aceptado,266,186,60,56,4,42.0,"{""mensaje_generico"": 1, ""sin_diff_util"": 11, ""mensaje_corto"": 56, ""diff_demasiado_grande"": 8, ""idioma_no_es_en"": 1, ""mensaje_merge_o_revert"": 3}",59.5
+Angelmmiguel/curso-react-app,MIT,JavaScript,es:proyecto,aceptado,24,17,17,0,17,23.5,"{""mensaje_generico"": 1, ""mensaje_corto"": 6}",6.4
+lovingnirav/IONIC-HTTP,MIT,,es:practica,fuera_de_rango_commits,4,,,,,,{},1.6
+alejandrorueda/spaceapp,Apache-2.0,JavaScript,es:proyecto,aceptado,32,5,5,1,4,15.5,"{""mensaje_corto"": 7, ""mensaje_generico"": 9, ""diff_demasiado_grande"": 10, ""sin_diff_util"": 1}",12.5
+vieespin/entrega,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,5,,,,,,{},22.4
+ionic-dominicana/ionic-starter,MIT,TypeScript,es:proyecto,aceptado,31,26,26,1,25,23,"{""mensaje_generico"": 4, ""diff_demasiado_grande"": 1}",9.8
+lbau/VentasOnline,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},1.8
+FFahrenheit/CACAServer,MIT,Java,es:proyecto,aceptado,31,19,19,16,3,121,"{""mensaje_generico"": 1, ""mensaje_corto"": 11}",9.4
+luisfsosa/gesoft-workflow-backend,Apache-2.0,Java,es:proyecto,fuera_de_rango_commits,6,,,,,,{},2.3
+GatomanJuarez/AndroidBoton,BSD-2-Clause,Java,es:aplicacion,fuera_de_rango_commits,3,,,,,,{},1.6
+AroldoMunoz/ADAProyectoGrupoC,BSD-3-Clause,Java,es:proyecto,fuera_de_rango_commits,14,,,,,,{},1.6
+2018-SEMII-DESIV-G1/explicacion-jsp,MIT,JavaScript,es:proyecto,aceptado,23,9,9,1,8,12,"{""mensaje_generico"": 5, ""mensaje_corto"": 7, ""diff_demasiado_grande"": 1, ""sin_diff_util"": 1}",5.8
+joaoeudes7/suggestclasses,MIT,,es:sistema de,aceptado,45,12,12,9,3,31,"{""mensaje_generico"": 1, ""mensaje_corto"": 2, ""idioma_no_es_en"": 30}",11.8
+APSL/django-apslutils,Apache-2.0,JavaScript,es:proyecto,aceptado,44,36,36,33,3,26.5,"{""mensaje_generico"": 1, ""mensaje_corto"": 7}",11.0
+rafarobert/xmobile-exxis,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,3,,,,,,{},4.1
+ProgramacionISFDyT57/avance-academico,MIT,TypeScript,es:proyecto,aceptado,375,232,60,59,1,10,"{""mensaje_generico"": 17, ""mensaje_corto"": 88, ""idioma_no_es_en"": 1, ""sin_diff_util"": 1, ""mensaje_vacio"": 36}",71.1
+JennerOrozco/ProyectoINGENIERIA,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},2.1
+miw-upm/betca-tpv-core,MIT,Java,es:proyecto,fuera_de_rango_commits,7,,,,,,{},2.7
+davidmp/ExampleFrameworkEcharts,Apache-2.0,Java,es:proyecto,fuera_de_rango_commits,19,,,,,,{},2.2
+emilioCursoJava/servlet-formulario,BSD-3-Clause,Java,es:curso,fuera_de_rango_commits,3,,,,,,{},1.7
+emepuchades/task-manager,MIT,JavaScript,es:proyecto,aceptado,39,23,23,0,23,58,"{""mensaje_generico"": 4, ""mensaje_corto"": 11, ""diff_demasiado_grande"": 1}",10.6
+hirvin-faria/SystemSOF,MIT,,es:sistema de,fuera_de_rango_commits,12,,,,,,{},4.2
+KevinStward/proyect-example,Apache-2.0,JavaScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},1.4
+ajcarrillo/myrando,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,4,,,,,,{},1.3
+atSistemas/articles-cejs,MIT,TypeScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},1.7
+caranfimo/on-line-shop-front,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},1.6
+Cadiducho/FEM,MIT,Java,es:proyecto,aceptado,448,390,60,51,9,27.0,"{""mensaje_generico"": 1, ""mensaje_corto"": 34, ""diff_demasiado_grande"": 17, ""mensaje_merge_o_revert"": 4, ""idioma_no_es_en"": 2}",109.4
+RedV-Egibide/Consultoria-E-Sports,Apache-2.0,Java,es:proyecto,aceptado,62,41,41,39,2,112.0,"{""mensaje_generico"": 1, ""sin_diff_util"": 1, ""mensaje_corto"": 14, ""mensaje_merge_o_revert"": 3, ""diff_demasiado_grande"": 2}",17.5
+juandisanj/ejercicio_servlet_formulario,BSD-3-Clause,Java,es:curso,fuera_de_rango_commits,4,,,,,,{},1.8
+alejandroaguileraalcalde-ing/Concierge,MIT,JavaScript,es:proyecto,aceptado,137,76,60,33,27,110,"{""mensaje_generico"": 10, ""mensaje_corto"": 38, ""diff_demasiado_grande"": 8, ""sin_diff_util"": 5}",39.3
+fabiobcoder/Desafio-infosistemas,MIT,,es:sistema de,fuera_de_rango_commits,12,,,,,,{},2.0
+EdgardoSLP/esterilizacion,Apache-2.0,JavaScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},2.3
+raquelita/random,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,3,,,,,,{},1.4
+apollo-utn-frd/apollo,MIT,TypeScript,es:proyecto,aceptado,83,56,56,55,1,140,"{""mensaje_generico"": 3, ""diff_demasiado_grande"": 7, ""mensaje_corto"": 17}",24.0
+micha3lvega/FollowTrack,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,3,,,,,,{},1.8
+DAll-FilterPatern/ProyectoFilterPatern,MIT,Java,es:proyecto,fuera_de_rango_commits,6,,,,,,{},1.4
+Androideity/AndroidStudioTutorials,Apache-2.0,Java,es:proyecto,fuera_de_rango_commits,13,,,,,,{},2.4
+chaqui/appProbabilidadYEstadistica,BSD-3-Clause,Java,es:curso,fuera_de_rango_commits,2,,,,,,{},2.0
+Skylab-MisionTIC-2022/Skylab-Project-UdeA-2022,MIT,JavaScript,es:proyecto,aceptado,132,78,60,58,2,18.0,"{""mensaje_generico"": 6, ""mensaje_corto"": 43, ""diff_demasiado_grande"": 3, ""sin_diff_util"": 2}",22.3
+Jose077/OS,MIT,,es:sistema de,fuera_de_rango_commits,6,,,,,,{},1.5
+vicrodri/webprojects,Apache-2.0,JavaScript,es:proyecto,fuera_de_rango_commits,14,,,,,,{},6.0
+BlueSkyTarapoto/proyectobluesky,BSD-3-Clause,JavaScript,es:proyecto,aceptado,66,24,24,0,24,12.5,"{""mensaje_generico"": 2, ""mensaje_corto"": 31, ""sin_diff_util"": 6, ""diff_demasiado_grande"": 2, ""mensaje_vacio"": 1}",10.6
+leaflet-maps-course/course-projects-from-scratch,MIT,TypeScript,es:proyecto,aceptado,67,60,60,58,2,49,"{""mensaje_generico"": 1, ""mensaje_corto"": 5, ""diff_demasiado_grande"": 1}",15.6
+strcoder/EduliPublic,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,15,,,,,,{},3.0
+migueldgoncalves/CCproj_1819,MIT,Java,es:proyecto,aceptado,123,100,60,60,0,20,"{""mensaje_generico"": 1, ""sin_diff_util"": 16, ""mensaje_corto"": 6}",26.0
+afestupinanp/techdomotica-java,Apache-2.0,Java,es:proyecto,aceptado,127,93,60,60,0,139,"{""mensaje_generico"": 3, ""mensaje_corto"": 11, ""diff_demasiado_grande"": 20}",31.5
+Hamiltonsjr/Curso_Java,BSD-3-Clause,Java,es:curso,aceptado,48,47,47,0,47,38.0,"{""mensaje_generico"": 1}",11.0
+npm-js-ts-angular-modules-course/extra-node-cli-project-generator,MIT,JavaScript,es:proyecto,fuera_de_rango_commits,6,,,,,,{},3.1
+Neyde-lau/IntimeProject,MIT,,es:sistema de,aceptado,79,18,18,5,13,55,"{""mensaje_generico"": 2, ""mensaje_corto"": 30, ""idioma_no_es_en"": 15, ""diff_demasiado_grande"": 7, ""mensaje_vacio"": 2, ""mensaje_merge_o_revert"": 4, ""sin_diff_util"": 1}",14.6
+DavidDoz/Proyecto,Apache-2.0,JavaScript,es:proyecto,fuera_de_rango_commits,4,,,,,,{},2.2
+leonel211/mi_zend,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,3,,,,,,{},6.3
+nonodev96/THUMDER,MIT,TypeScript,es:proyecto,aceptado,253,110,60,2,58,315,"{""mensaje_corto"": 49, ""diff_demasiado_grande"": 92, ""mensaje_generico"": 2}",98.3
+rifasmercurio/rifasmercurio,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,11,,,,,,{},2.5
+j0rd1s3rr4n0/CyberKnowledge,MIT,Java,es:proyecto,fuera_de_rango_commits,10,,,,,,{},12.7
+Jovamih/Bolsa-de-Valores-de-Lima,Apache-2.0,Java,es:proyecto,fuera_de_rango_commits,18,,,,,,{},4.6
+massielita/ADALABORATORIOSB2021,BSD-3-Clause,Java,es:curso,aceptado,38,33,33,27,6,10.0,"{""mensaje_generico"": 1, ""mensaje_corto"": 4}",9.2
+MAINTOOLS/maintools-project,MIT,JavaScript,es:proyecto,aceptado,79,68,60,60,0,20,"{""mensaje_generico"": 1, ""mensaje_corto"": 8, ""diff_demasiado_grande"": 2}",21.4
+vantequera/insumos,MIT,,es:aplicacion,aceptado,22,17,17,17,0,64.0,"{""mensaje_corto"": 4, ""sin_diff_util"": 1}",5.6
+mi-teixdor/Monitorizacion,Apache-2.0,JavaScript,es:proyecto,fuera_de_rango_commits,3,,,,,,{},1.5
+ezmg/finestfitness,BSD-3-Clause,JavaScript,es:proyecto,aceptado,131,106,60,60,0,71,"{""mensaje_corto"": 17, ""diff_demasiado_grande"": 7, ""sin_diff_util"": 1}",50.3
+mugan86/angular-jspdf,MIT,TypeScript,es:proyecto,fuera_de_rango_commits,3,,,,,,{},1.9
+rootluis/02-spa,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,2,,,,,,{},1.9
+Soft-Coders/SIInt,MIT,Java,es:proyecto,fuera_de_rango_commits,593,,,,,,{},3.2
+RamiroEda/ProyectoPOO,Apache-2.0,Java,es:proyecto,aceptado,60,10,10,10,0,13.5,"{""mensaje_generico"": 6, ""diff_demasiado_grande"": 1, ""mensaje_corto"": 42, ""sin_diff_util"": 1}",9.7
+massielita/LabADAGrupoB,BSD-3-Clause,Java,es:curso,fuera_de_rango_commits,13,,,,,,{},1.7
+BraianVaylet/AquilaStore,MIT,JavaScript,es:proyecto,fuera_de_rango_commits,11,,,,,,{},2.7
+Josue-Godinez-zz/PokemonJSF,MIT,,es:aplicacion,fuera_de_rango_commits,3,,,,,,{},1.5
+dalevale/almagym,Apache-2.0,JavaScript,es:proyecto,aceptado,83,49,49,31,18,71,"{""mensaje_generico"": 1, ""mensaje_corto"": 25, ""diff_demasiado_grande"": 5, ""mensaje_merge_o_revert"": 2, ""sin_diff_util"": 1}",16.5
+jardila/consulta-de-tesis,BSD-3-Clause,JavaScript,es:proyecto,fuera_de_rango_commits,4,,,,,,{},10.1
+iadsramirez/cotizador,MIT,TypeScript,es:proyecto,fuera_de_rango_commits,5,,,,,,{},3.3
+hfuentes/proyecto-signos-tienda,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,4,,,,,,{},1.6
+adanvillarreal/Expediciones_biosfera,MIT,Java,es:proyecto,aceptado,169,150,60,0,60,30,"{""mensaje_generico"": 4, ""mensaje_corto"": 13, ""sin_diff_util"": 1, ""mensaje_merge_o_revert"": 1}",31.9
+Ivan0886/APPCovid,Apache-2.0,Java,es:proyecto,aceptado,126,81,60,44,16,51.5,"{""mensaje_corto"": 37, ""mensaje_merge_o_revert"": 1, ""diff_demasiado_grande"": 2, ""mensaje_generico"": 1, ""sin_diff_util"": 4}",22.4
+Cainuriel/Practicas-JAVA,BSD-3-Clause,Java,es:practica,aceptado,26,11,11,11,0,1817.5,"{""mensaje_generico"": 1, ""diff_demasiado_grande"": 13, ""mensaje_merge_o_revert"": 1}",9.2
+lynx-agenda/Agenda-Elobby-backend,MIT,JavaScript,es:proyecto,aceptado,48,35,35,10,25,31.5,"{""mensaje_generico"": 6, ""mensaje_corto"": 7}",9.8
+rvalle71mx/demo-rest,MIT,,es:aplicacion,fuera_de_rango_commits,3,,,,,,{},1.4
+ChrisTorres96/pagina,Apache-2.0,JavaScript,es:proyecto,fuera_de_rango_commits,3,,,,,,{},2.1
+desarrollosur/seminariofinal,BSD-3-Clause,JavaScript,es:universidad,aceptado,35,31,31,31,0,106,"{""mensaje_generico"": 1, ""mensaje_corto"": 3}",10.0
+MelinaLizetGarcia/BallEyes,MIT,TypeScript,es:proyecto,fuera_de_rango_commits,6,,,,,,{},1.6
+T5HybridCore/marvel-vs-dc,Apache-2.0,TypeScript,es:proyecto,fuera_de_rango_commits,6,,,,,,{},2.5
+Proyecto-Vegeta/torneo,MIT,Java,es:proyecto,fuera_de_rango_commits,19,,,,,,{},1.5
+CelesteJuu/Proyecto_OROPEZA,Apache-2.0,Java,es:proyecto,fuera_de_rango_commits,4,,,,,,{},1.7
+Sad-Potato/PracticasNPI,BSD-3-Clause,Java,es:practica,aceptado,31,17,17,13,4,42,"{""mensaje_generico"": 3, ""mensaje_corto"": 8, ""sin_diff_util"": 2, ""diff_demasiado_grande"": 1}",12.2
+Zoomelectrico/workChang,MIT,JavaScript,es:proyecto,aceptado,158,94,60,48,12,97.0,"{""mensaje_generico"": 4, ""mensaje_corto"": 49, ""diff_demasiado_grande"": 5, ""mensaje_merge_o_revert"": 6}",31.6
