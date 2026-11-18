@@ -1,0 +1,51 @@
+{
+  "tokenizer": "google/gemma-4-E2B-it@4adf15748de9e1a0097b6274cee9c15836c41c37",
+  "max_tokens_instruccion": 1024,
+  "por_split": {
+    "train": {
+      "ejemplos": 3080,
+      "tokens_instruccion": {
+        "media": 670,
+        "p50": 828,
+        "p95": 1020,
+        "max": 1020
+      },
+      "tokens_respuesta": {
+        "media": 13,
+        "p95": 35,
+        "max": 179
+      },
+      "con_diff_recortado": 1383
+    },
+    "validation": {
+      "ejemplos": 459,
+      "tokens_instruccion": {
+        "media": 616,
+        "p50": 658,
+        "p95": 1009,
+        "max": 1020
+      },
+      "tokens_respuesta": {
+        "media": 8,
+        "p95": 16,
+        "max": 80
+      },
+      "con_diff_recortado": 168
+    },
+    "test": {
+      "ejemplos": 386,
+      "tokens_instruccion": {
+        "media": 687,
+        "p50": 960,
+        "p95": 1012,
+        "max": 1020
+      },
+      "tokens_respuesta": {
+        "media": 12,
+        "p95": 37,
+        "max": 133
+      },
+      "con_diff_recortado": 194
+    }
+  }
+}

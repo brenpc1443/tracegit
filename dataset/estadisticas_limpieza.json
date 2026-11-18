@@ -1,0 +1,100 @@
+{
+  "ejemplos": 3925,
+  "repos": 113,
+  "descartes_en_limpieza": {
+    "duplicado_diff": 72,
+    "repo_con_pocos_tras_limpiar": 4,
+    "tope_por_dueno": 0
+  },
+  "reemplazos_privacidad": {
+    "correos": 804,
+    "asignaciones_secretas": 103,
+    "menciones": 11,
+    "urls_con_credencial": 30,
+    "secretos": 47,
+    "mensajes_con_ref_pr_issue": 2
+  },
+  "idioma_reasignado_por_repo": 140,
+  "corte_estilo_mediana_lineas": 30.5,
+  "por_split": {
+    "train": {
+      "ejemplos": 3080,
+      "repos": 86,
+      "duenos": 84,
+      "idioma": {
+        "en": 1150,
+        "es": 1930
+      },
+      "lenguaje": {
+        "Python": 941,
+        "desconocido": 166,
+        "JavaScript": 672,
+        "TypeScript": 508,
+        "Java": 793
+      },
+      "licencia": {
+        "MIT": 1814,
+        "Apache-2.0": 734,
+        "BSD-3-Clause": 428,
+        "BSD-2-Clause": 104
+      },
+      "estilo_repo": {
+        "commits_pequenos": 1494,
+        "commits_grandes": 1586
+      }
+    },
+    "validation": {
+      "ejemplos": 459,
+      "repos": 14,
+      "duenos": 12,
+      "idioma": {
+        "es": 227,
+        "en": 232
+      },
+      "lenguaje": {
+        "Python": 152,
+        "JavaScript": 95,
+        "desconocido": 14,
+        "TypeScript": 78,
+        "Java": 120
+      },
+      "licencia": {
+        "MIT": 296,
+        "BSD-2-Clause": 14,
+        "BSD-3-Clause": 60,
+        "Apache-2.0": 89
+      },
+      "estilo_repo": {
+        "commits_grandes": 132,
+        "commits_pequenos": 327
+      }
+    },
+    "test": {
+      "ejemplos": 386,
+      "repos": 13,
+      "duenos": 13,
+      "idioma": {
+        "en": 109,
+        "es": 277
+      },
+      "lenguaje": {
+        "Python": 109,
+        "TypeScript": 80,
+        "desconocido": 16,
+        "Java": 102,
+        "JavaScript": 79
+      },
+      "licencia": {
+        "MIT": 286,
+        "BSD-2-Clause": 24,
+        "Apache-2.0": 16,
+        "BSD-3-Clause": 60
+      },
+      "estilo_repo": {
+        "commits_pequenos": 134,
+        "commits_grandes": 252
+      }
+    }
+  },
+  "aviso": null
+}

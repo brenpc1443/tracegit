@@ -32,6 +32,15 @@ eval/        métricas: especialización, retrieval, citas, sesgos (D1)
 docs/        plan, Matriz EICE, model card y dataset card
 ```
 
+## Dataset
+
+3925 pares instrucción/respuesta (diff → mensaje de commit humano, anteriores al 30-11-2022), 62 % en español,
+divididos por dueño en train 3080 · validation 459 · test 386.
+
+- Algoritmo de minado: [`docs/ALGORITMO_MINADO.md`](docs/ALGORITMO_MINADO.md)
+- Dataset card con procedencia, filtros y estadísticas: [`dataset/DATASET_CARD.md`](dataset/DATASET_CARD.md)
+- Procedencia: `dataset/candidatos.csv` y `dataset/registro_repos.csv`
+
 ## Ejecución
 
 En construcción. Las instrucciones reproducibles (versiones fijadas en `requirements.txt`) se
