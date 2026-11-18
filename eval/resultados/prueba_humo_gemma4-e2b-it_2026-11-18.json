@@ -1,0 +1,197 @@
+{
+  "fecha": "2026-11-18 15:28",
+  "modelo": "google/gemma-4-E2B-it@4adf15748de9e1a0097b6274cee9c15836c41c37",
+  "compute_dtype": "fp16",
+  "entorno": {
+    "gpu": "Tesla T4",
+    "vram_total_gb": 14.56,
+    "capacidad_computo": "7.5",
+    "bf16_nativo": false,
+    "python": "3.13.16",
+    "torch": "2.14.1+cu130",
+    "cuda": "13.0",
+    "transformers": "5.23.0",
+    "peft": "0.21.3",
+    "bitsandbytes": "0.50.2",
+    "accelerate": "1.16.0"
+  },
+  "carga": {
+    "clase": "Gemma4ForConditionalGeneration",
+    "attn_implementation": "sdpa",
+    "segundos_carga": 44.8,
+    "vram_tras_carga_gb": 6.28
+  },
+  "lora": {
+    "modulos_lora": 205,
+    "parametros_entrenables": 24158208
+  },
+  "tokens_por_ejemplo": {
+    "media": 551,
+    "p95": 1015
+  },
+  "pasos_completados": 30,
+  "loss_primeros5": 6.2654,
+  "loss_ultimos5": 2.5158,
+  "grad_norm_max_finito": 14.3058,
+  "pasos_saltados_gradscaler": 4,
+  "pico_vram_gb": 10.51,
+  "seg_por_ejemplo": 1.2,
+  "estimado_horas_3000x2_epocas": 2.0,
+  "aprobado_i": true,
+  "avisos": [],
+  "salida_base": "**feat: Fix documentation and minor code cleanup**\n\n* Updates `docs/dev/todo.rst` to correct a typo regarding \"Google AppEngine\".\n* Replaces the comment `# AppEngine hackiness.` with `# App Engine hackiness.` in `requests/utils.py`.",
+  "salida_tras_30_pasos": "Fix typo in App Engine hackiness (#5111)",
+  "log": [
+    {
+      "paso": 1,
+      "loss": 6.489628791809082,
+      "grad_norm": null
+    },
+    {
+      "paso": 2,
+      "loss": 6.489692211151123,
+      "grad_norm": null
+    },
+    {
+      "paso": 3,
+      "loss": 5.699188232421875,
+      "grad_norm": null
+    },
+    {
+      "paso": 4,
+      "loss": 6.214913368225098,
+      "grad_norm": 12.884649276733398
+    },
+    {
+      "paso": 5,
+      "loss": 6.433572292327881,
+      "grad_norm": null
+    },
+    {
+      "paso": 6,
+      "loss": 6.814237594604492,
+      "grad_norm": 14.305809020996094
+    },
+    {
+      "paso": 7,
+      "loss": 5.157883644104004,
+      "grad_norm": 8.659245491027832
+    },
+    {
+      "paso": 8,
+      "loss": 5.793418884277344,
+      "grad_norm": 10.503338813781738
+    },
+    {
+      "paso": 9,
+      "loss": 4.699552059173584,
+      "grad_norm": 12.71026611328125
+    },
+    {
+      "paso": 10,
+      "loss": 3.784006118774414,
+      "grad_norm": 13.717066764831543
+    },
+    {
+      "paso": 11,
+      "loss": 4.0627522468566895,
+      "grad_norm": 9.61496639251709
+    },
+    {
+      "paso": 12,
+      "loss": 3.433614492416382,
+      "grad_norm": 12.166783332824707
+    },
+    {
+      "paso": 13,
+      "loss": 2.3159866333007812,
+      "grad_norm": 6.710373401641846
+    },
+    {
+      "paso": 14,
+      "loss": 3.6948041915893555,
+      "grad_norm": 7.337367534637451
+    },
+    {
+      "paso": 15,
+      "loss": 3.185404062271118,
+      "grad_norm": 7.4395647048950195
+    },
+    {
+      "paso": 16,
+      "loss": 2.618767499923706,
+      "grad_norm": 5.675785541534424
+    },
+    {
+      "paso": 17,
+      "loss": 2.26257586479187,
+      "grad_norm": 3.8079535961151123
+    },
+    {
+      "paso": 18,
+      "loss": 1.9763548374176025,
+      "grad_norm": 3.774395704269409
+    },
+    {
+      "paso": 19,
+      "loss": 2.548236608505249,
+      "grad_norm": 3.6576590538024902
+    },
+    {
+      "paso": 20,
+      "loss": 2.075674295425415,
+      "grad_norm": 5.1424560546875
+    },
+    {
+      "paso": 21,
+      "loss": 2.5767557621002197,
+      "grad_norm": 2.8085238933563232
+    },
+    {
+      "paso": 22,
+      "loss": 2.413025140762329,
+      "grad_norm": 4.03351354598999
+    },
+    {
+      "paso": 23,
+      "loss": 3.1737074851989746,
+      "grad_norm": 4.541589736938477
+    },
+    {
+      "paso": 24,
+      "loss": 2.4512786865234375,
+      "grad_norm": 3.224050760269165
+    },
+    {
+      "paso": 25,
+      "loss": 2.5063862800598145,
+      "grad_norm": 3.8759968280792236
+    },
+    {
+      "paso": 26,
+      "loss": 2.9701802730560303,
+      "grad_norm": 7.0362868309021
+    },
+    {
+      "paso": 27,
+      "loss": 2.2597997188568115,
+      "grad_norm": 7.816196441650391
+    },
+    {
+      "paso": 28,
+      "loss": 2.381201982498169,
+      "grad_norm": 4.154660224914551
+    },
+    {
+      "paso": 29,
+      "loss": 2.480855941772461,
+      "grad_norm": 6.71501350402832
+    },
+    {
+      "paso": 30,
+      "loss": 2.486947536468506,
+      "grad_norm": 5.225633144378662
+    }
+  ],
+  "nota": "grad_norm null = NaN/inf: paso saltado por el GradScaler de fp16 (no actualiza pesos)."
+}
