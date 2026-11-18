@@ -1,0 +1,66 @@
+{
+  "modelo_base": "google/gemma-4-E2B-it@4adf15748de9e1a0097b6274cee9c15836c41c37",
+  "dataset": "brenpc/tracegit-commits@8b5d79317fca720262bdb5334ed25e12442ef040",
+  "ejemplos_train": 3080,
+  "ejemplos_val_usados": 120,
+  "epocas": 2,
+  "pasos": 386,
+  "lote_efectivo": 16,
+  "lr": 0.0002,
+  "lora": {
+    "r": 16,
+    "alpha": 32,
+    "dropout": 0.05,
+    "modulos": 205
+  },
+  "eval_loss_por_paso": [
+    [
+      50,
+      3.4558
+    ],
+    [
+      100,
+      3.3659
+    ],
+    [
+      150,
+      3.2941
+    ],
+    [
+      200,
+      3.2887
+    ],
+    [
+      250,
+      3.2953
+    ],
+    [
+      300,
+      3.3016
+    ],
+    [
+      350,
+      3.3136
+    ],
+    [
+      386,
+      3.3106
+    ]
+  ],
+  "mejor_eval_loss": 3.288748264312744,
+  "mejor_checkpoint": "/content/adaptador_v1/checkpoint-200",
+  "horas_ultima_sesion": 2.62,
+  "pico_vram_gb": 10.84,
+  "entorno": {
+    "gpu": "Tesla T4",
+    "vram_total_gb": 14.56,
+    "python": "3.13.16",
+    "torch": "2.14.1+cu130",
+    "transformers": "5.23.0",
+    "peft": "0.21.3",
+    "bitsandbytes": "0.50.2",
+    "accelerate": "1.16.0"
+  },
+  "fecha": "2026-11-18 23:06 UTC",
+  "adaptador": "brenpc/tracegit-gemma4-e2b-lora-v1@9157fe0c5e22b8ce6a02723d2f6e1c9c23694636"
+}
