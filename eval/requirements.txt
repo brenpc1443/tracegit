@@ -1,0 +1,7 @@
+# Dependencias de eval/metricas_especializacion.py (local, sin GPU; probado con Python 3.10)
+huggingface_hub==1.19.0
+lingua-language-detector==2.1.1
+sacrebleu==2.6.0
+fairlearn==0.14.0
+pandas==2.1.4
+numpy==1.26.4
