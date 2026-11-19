@@ -54,7 +54,8 @@ tracegit/
 ├── notebooks/                    Colab T4
 │   ├── 00_prueba_humo.ipynb      prueba de humo de QLoRA (criterio i)
 │   ├── 01_entrenamiento_qlora.ipynb  entrenamiento del adaptador v1
-│   └── 02_generacion_evaluacion.ipynb  respuestas de base y adaptadores sobre el test (para las métricas)
+│   ├── 02_generacion_evaluacion.ipynb  primera corrida de generación (fallida: el relleno vació 316/375; se conserva)
+│   └── 02b_generacion_evaluacion_sin_relleno.ipynb  respuestas de base y adaptadores sobre el test, sin relleno
 ├── eval/                         evaluación
 │   ├── medir_velocidad_ollama.py criterio (ii): tokens/s en la laptop de la demo
 │   ├── metricas_especializacion.py  ROUGE-L, BLEU, identificadores, idioma y sesgo D1 (local, sin GPU)
