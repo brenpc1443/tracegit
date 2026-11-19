@@ -53,9 +53,12 @@ tracegit/
 │       └── DATASET_CARD.md       dataset card de la v1.1
 ├── notebooks/                    Colab T4
 │   ├── 00_prueba_humo.ipynb      prueba de humo de QLoRA (criterio i)
-│   └── 01_entrenamiento_qlora.ipynb  entrenamiento del adaptador v1
+│   ├── 01_entrenamiento_qlora.ipynb  entrenamiento del adaptador v1
+│   └── 02_generacion_evaluacion.ipynb  respuestas de base y adaptadores sobre el test (para las métricas)
 ├── eval/                         evaluación
 │   ├── medir_velocidad_ollama.py criterio (ii): tokens/s en la laptop de la demo
+│   ├── metricas_especializacion.py  ROUGE-L, BLEU, identificadores, idioma y sesgo D1 (local, sin GPU)
+│   ├── requirements.txt          dependencias de las métricas locales
 │   └── resultados/               resultados medidos (JSON con fecha)
 └── docs/                         especificaciones
     ├── ALGORITMO_MINADO.md       algoritmo de minado (v1)
@@ -63,7 +66,7 @@ tracegit/
 ```
 
 `data/` (los `.jsonl`) no se versiona en git: está en Hugging Face Hub. Pendientes: `src/tracegit/` (ingesta,
-seudonimización, RAG, síntesis y validador) y `notebooks/02_evaluacion.ipynb`.
+seudonimización, RAG, síntesis y validador).
 
 ## Dataset
 
