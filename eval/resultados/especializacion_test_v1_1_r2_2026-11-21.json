@@ -1,0 +1,550 @@
+{
+  "fecha": "2026-11-21",
+  "etiqueta": "test_v1.1_r2",
+  "dataset": "brenpc/tracegit-commits@42eed230d333d04b7ad196032a6fe1d88524e323:v1.1/test.jsonl",
+  "predicciones": "brenpc/tracegit-predicciones@435beff3b8bebccc1ed00edaf4eba94411aabd89",
+  "ejemplos": 375,
+  "repos_test": 12,
+  "bootstrap": "1000 remuestreos por repositorio, semilla 42",
+  "global": {
+    "humano": {
+      "exactitud_ids": {
+        "valor": 0.726,
+        "ic95": [
+          0.631,
+          0.83
+        ]
+      },
+      "inventa_id": {
+        "valor": 0.053,
+        "ic95": [
+          0.03,
+          0.079
+        ]
+      },
+      "idioma_correcto": {
+        "valor": 0.976,
+        "ic95": [
+          0.96,
+          0.99
+        ]
+      },
+      "plantilla_web": {
+        "valor": 0.0,
+        "ic95": [
+          0.0,
+          0.0
+        ]
+      },
+      "palabras": {
+        "valor": 8.728,
+        "ic95": [
+          6.518,
+          10.625
+        ]
+      },
+      "truncada": {
+        "valor": 0.0,
+        "ic95": [
+          0.0,
+          0.0
+        ]
+      },
+      "con_identificadores": 61
+    },
+    "base": {
+      "rouge_l": {
+        "valor": 0.058,
+        "ic95": [
+          0.045,
+          0.075
+        ]
+      },
+      "exactitud_ids": {
+        "valor": 0.983,
+        "ic95": [
+          0.976,
+          0.99
+        ]
+      },
+      "inventa_id": {
+        "valor": 0.077,
+        "ic95": [
+          0.043,
+          0.112
+        ]
+      },
+      "idioma_correcto": {
+        "valor": 0.499,
+        "ic95": [
+          0.372,
+          0.663
+        ]
+      },
+      "plantilla_web": {
+        "valor": 0.0,
+        "ic95": [
+          0.0,
+          0.0
+        ]
+      },
+      "palabras": {
+        "valor": 46.125,
+        "ic95": [
+          40.876,
+          51.254
+        ]
+      },
+      "truncada": {
+        "valor": 0.301,
+        "ic95": [
+          0.207,
+          0.398
+        ]
+      },
+      "bleu": {
+        "valor": 0.29,
+        "ic95": [
+          0.09,
+          0.5
+        ]
+      },
+      "con_identificadores": 356
+    },
+    "v1": {
+      "rouge_l": {
+        "valor": 0.08,
+        "ic95": [
+          0.053,
+          0.118
+        ]
+      },
+      "exactitud_ids": {
+        "valor": 1.0,
+        "ic95": [
+          1.0,
+          1.0
+        ]
+      },
+      "inventa_id": {
+        "valor": 0.0,
+        "ic95": [
+          0.0,
+          0.0
+        ]
+      },
+      "idioma_correcto": {
+        "valor": 0.509,
+        "ic95": [
+          0.346,
+          0.74
+        ]
+      },
+      "plantilla_web": {
+        "valor": 0.32,
+        "ic95": [
+          0.196,
+          0.439
+        ]
+      },
+      "palabras": {
+        "valor": 4.925,
+        "ic95": [
+          4.487,
+          5.442
+        ]
+      },
+      "truncada": {
+        "valor": 0.008,
+        "ic95": [
+          0.002,
+          0.018
+        ]
+      },
+      "bleu": {
+        "valor": 0.7,
+        "ic95": [
+          0.23,
+          1.65
+        ]
+      },
+      "con_identificadores": 43
+    }
+  },
+  "diferencias_contra_base": {
+    "v1-base": {
+      "rouge_l": {
+        "valor": 0.022,
+        "ic95": [
+          -0.005,
+          0.057
+        ]
+      },
+      "exactitud_ids": {
+        "valor": 0.004,
+        "ic95": [
+          0.0,
+          0.008
+        ]
+      },
+      "inventa_id": {
+        "valor": -0.077,
+        "ic95": [
+          -0.113,
+          -0.045
+        ]
+      },
+      "idioma_correcto": {
+        "valor": 0.011,
+        "ic95": [
+          -0.085,
+          0.132
+        ]
+      },
+      "plantilla_web": {
+        "valor": 0.32,
+        "ic95": [
+          0.198,
+          0.433
+        ]
+      },
+      "bleu": {
+        "valor": 0.41,
+        "ic95": [
+          -0.03,
+          1.33
+        ]
+      }
+    }
+  },
+  "d1": {
+    "base": {
+      "idioma": {
+        "n": {
+          "en": 99,
+          "es": 276
+        },
+        "metricas": {
+          "rouge_l": {
+            "por_grupo": {
+              "en": 0.066,
+              "es": 0.055
+            },
+            "brecha": "en-es",
+            "valor": 0.011,
+            "ic95": [
+              -0.018,
+              0.046
+            ],
+            "diferencia_fairlearn": 0.012
+          },
+          "exactitud_ids": {
+            "por_grupo": {
+              "en": 0.986,
+              "es": 0.982
+            },
+            "brecha": "en-es",
+            "valor": 0.004,
+            "ic95": [
+              -0.012,
+              0.018
+            ],
+            "diferencia_fairlearn": 0.004
+          },
+          "inventa_id": {
+            "por_grupo": {
+              "en": 0.061,
+              "es": 0.083
+            },
+            "brecha": "en-es",
+            "valor": -0.022,
+            "ic95": [
+              -0.076,
+              0.036
+            ],
+            "diferencia_fairlearn": 0.023
+          },
+          "idioma_correcto": {
+            "por_grupo": {
+              "en": 0.758,
+              "es": 0.406
+            },
+            "brecha": "en-es",
+            "valor": 0.352,
+            "ic95": [
+              -0.001,
+              0.603
+            ],
+            "diferencia_fairlearn": 0.352
+          },
+          "plantilla_web": {
+            "por_grupo": {
+              "en": 0.0,
+              "es": 0.0
+            },
+            "brecha": "en-es",
+            "valor": 0.0,
+            "ic95": [
+              0.0,
+              0.0
+            ],
+            "diferencia_fairlearn": 0.0
+          },
+          "bleu": {
+            "por_grupo": {
+              "en": 0.15,
+              "es": 0.33
+            }
+          }
+        },
+        "grupo_peor_rouge_l": {
+          "grupo": "es",
+          "brecha_significativa": false
+        }
+      },
+      "estilo_repo": {
+        "n": {
+          "commits_grandes": 242,
+          "commits_pequenos": 133
+        },
+        "metricas": {
+          "rouge_l": {
+            "por_grupo": {
+              "commits_grandes": 0.048,
+              "commits_pequenos": 0.075
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": -0.027,
+            "ic95": [
+              -0.059,
+              0.004
+            ],
+            "diferencia_fairlearn": 0.027
+          },
+          "exactitud_ids": {
+            "por_grupo": {
+              "commits_grandes": 0.985,
+              "commits_pequenos": 0.979
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": 0.006,
+            "ic95": [
+              -0.007,
+              0.023
+            ],
+            "diferencia_fairlearn": 0.006
+          },
+          "inventa_id": {
+            "por_grupo": {
+              "commits_grandes": 0.079,
+              "commits_pequenos": 0.075
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": 0.004,
+            "ic95": [
+              -0.058,
+              0.057
+            ],
+            "diferencia_fairlearn": 0.003
+          },
+          "idioma_correcto": {
+            "por_grupo": {
+              "commits_grandes": 0.479,
+              "commits_pequenos": 0.534
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": -0.055,
+            "ic95": [
+              -0.394,
+              0.221
+            ],
+            "diferencia_fairlearn": 0.054
+          },
+          "plantilla_web": {
+            "por_grupo": {
+              "commits_grandes": 0.0,
+              "commits_pequenos": 0.0
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": 0.0,
+            "ic95": [
+              0.0,
+              0.0
+            ],
+            "diferencia_fairlearn": 0.0
+          },
+          "bleu": {
+            "por_grupo": {
+              "commits_grandes": 0.22,
+              "commits_pequenos": 0.42
+            }
+          }
+        }
+      }
+    },
+    "v1": {
+      "idioma": {
+        "n": {
+          "en": 99,
+          "es": 276
+        },
+        "metricas": {
+          "rouge_l": {
+            "por_grupo": {
+              "en": 0.1,
+              "es": 0.072
+            },
+            "brecha": "en-es",
+            "valor": 0.028,
+            "ic95": [
+              -0.04,
+              0.071
+            ],
+            "diferencia_fairlearn": 0.028
+          },
+          "exactitud_ids": {
+            "por_grupo": {
+              "en": 1.0,
+              "es": 1.0
+            },
+            "brecha": "en-es",
+            "valor": 0.0,
+            "ic95": [
+              0.0,
+              0.0
+            ],
+            "diferencia_fairlearn": 0.0
+          },
+          "inventa_id": {
+            "por_grupo": {
+              "en": 0.0,
+              "es": 0.0
+            },
+            "brecha": "en-es",
+            "valor": 0.0,
+            "ic95": [
+              0.0,
+              0.0
+            ],
+            "diferencia_fairlearn": 0.0
+          },
+          "idioma_correcto": {
+            "por_grupo": {
+              "en": 0.838,
+              "es": 0.391
+            },
+            "brecha": "en-es",
+            "valor": 0.447,
+            "ic95": [
+              0.115,
+              0.702
+            ],
+            "diferencia_fairlearn": 0.447
+          },
+          "plantilla_web": {
+            "por_grupo": {
+              "en": 0.354,
+              "es": 0.308
+            },
+            "brecha": "en-es",
+            "valor": 0.046,
+            "ic95": [
+              -0.146,
+              0.25
+            ],
+            "diferencia_fairlearn": 0.046
+          },
+          "bleu": {
+            "por_grupo": {
+              "en": 0.58,
+              "es": 0.71
+            }
+          }
+        },
+        "grupo_peor_rouge_l": {
+          "grupo": "es",
+          "brecha_significativa": false
+        }
+      },
+      "estilo_repo": {
+        "n": {
+          "commits_grandes": 242,
+          "commits_pequenos": 133
+        },
+        "metricas": {
+          "rouge_l": {
+            "por_grupo": {
+              "commits_grandes": 0.093,
+              "commits_pequenos": 0.056
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": 0.037,
+            "ic95": [
+              -0.013,
+              0.101
+            ],
+            "diferencia_fairlearn": 0.037
+          },
+          "exactitud_ids": {
+            "por_grupo": {
+              "commits_grandes": 1.0,
+              "commits_pequenos": 1.0
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": 0.0,
+            "ic95": [
+              0.0,
+              0.0
+            ],
+            "diferencia_fairlearn": 0.0
+          },
+          "inventa_id": {
+            "por_grupo": {
+              "commits_grandes": 0.0,
+              "commits_pequenos": 0.0
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": 0.0,
+            "ic95": [
+              0.0,
+              0.0
+            ],
+            "diferencia_fairlearn": 0.0
+          },
+          "idioma_correcto": {
+            "por_grupo": {
+              "commits_grandes": 0.5,
+              "commits_pequenos": 0.526
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": -0.026,
+            "ic95": [
+              -0.468,
+              0.364
+            ],
+            "diferencia_fairlearn": 0.026
+          },
+          "plantilla_web": {
+            "por_grupo": {
+              "commits_grandes": 0.264,
+              "commits_pequenos": 0.421
+            },
+            "brecha": "commits_grandes-commits_pequenos",
+            "valor": -0.157,
+            "ic95": [
+              -0.424,
+              0.031
+            ],
+            "diferencia_fairlearn": 0.157
+          },
+          "bleu": {
+            "por_grupo": {
+              "commits_grandes": 0.87,
+              "commits_pequenos": 0.42
+            }
+          }
+        }
+      }
+    }
+  }
+}

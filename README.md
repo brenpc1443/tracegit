@@ -60,7 +60,7 @@ tracegit/
 │   ├── medir_velocidad_ollama.py criterio (ii): tokens/s en la laptop de la demo
 │   ├── metricas_especializacion.py  ROUGE-L, BLEU, identificadores, idioma y sesgo D1 (local, sin GPU)
 │   ├── requirements.txt          dependencias de las métricas locales
-│   └── resultados/               resultados medidos (JSON con fecha)
+│   └── resultados/               resultados medidos (JSON con fecha; tablas .md de la evaluación)
 └── docs/                         especificaciones
     ├── ALGORITMO_MINADO.md       algoritmo de minado (v1)
     └── DEPURACION_V1_1.md        depuración de la v1.1
