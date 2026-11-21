@@ -20,6 +20,7 @@ Proyecto integrador · ISIA-119 Modelos Generativos de IA · Grupo 3 · 2026-II
 | Base alineado (pesos abiertos) | `google/gemma-4-E2B-it @ 4adf15748de9e1a0097b6274cee9c15836c41c37` (Apache 2.0) |
 | Especialización | QLoRA (nivel 2 de las bases v3) + RAG |
 | Adaptador v1 (privado por ahora) | `brenpc/tracegit-gemma4-e2b-lora-v1 @ 9157fe0c5e22b8ce6a02723d2f6e1c9c23694636` — `notebooks/01_entrenamiento_qlora.ipynb`, registro en `eval/resultados/` |
+| Adaptador v2 (por entrenar) | `brenpc/tracegit-gemma4-e2b-lora-v2` — `notebooks/v2/`: mitigación del sesgo por idioma (ver `notebooks/v2/README.md`) |
 | Suplente | `Qwen/Qwen3-4B @ 1cfa9a7208912126459214e8b04321603b3df60c` |
 | Embeddings | `intfloat/multilingual-e5-small` (local) |
 
@@ -55,7 +56,11 @@ tracegit/
 │   ├── 00_prueba_humo.ipynb      prueba de humo de QLoRA (criterio i)
 │   ├── 01_entrenamiento_qlora.ipynb  entrenamiento del adaptador v1
 │   ├── 02_generacion_evaluacion.ipynb  primera corrida de generación (fallida: el relleno vació 316/375; se conserva)
-│   └── 02b_generacion_evaluacion_sin_relleno.ipynb  respuestas de base y adaptadores sobre el test, sin relleno
+│   ├── 02b_generacion_evaluacion_sin_relleno.ipynb  respuestas de base y adaptadores sobre el test, sin relleno
+│   └── v2/                       adaptador v2: mitigación del sesgo D1 por idioma
+│       ├── README.md             qué cambia frente al v1, por qué y criterios de éxito
+│       ├── 01_entrenamiento_qlora_v2.ipynb  dataset v1.1, idioma explícito, español ×1,5, 1 época
+│       └── 02_generacion_evaluacion_v2.ipynb  base, v1 y v2 con idioma explícito (D1 «después»)
 ├── eval/                         evaluación
 │   ├── medir_velocidad_ollama.py criterio (ii): tokens/s en la laptop de la demo
 │   ├── metricas_especializacion.py  ROUGE-L, BLEU, identificadores, idioma y sesgo D1 (local, sin GPU)
